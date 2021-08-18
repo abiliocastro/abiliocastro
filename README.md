@@ -22,3 +22,5 @@ I'm a Sofware Engineering student at Federal University of Ceará - Brazil and a
 - Spring Boot
 - Python
 - Flask
+- JavaScript
+- Node.js
