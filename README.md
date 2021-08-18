@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a Sofware Engineering student at Federal University of Ceará - Brazil and also a Junior Back-End Developer at Greenmile, a Brazilian IT Company that now is part of Decartes System Group.
 
-## Programming Languages and Frameworks I'm studying/working 
+#### Programming Languages and Frameworks I'm studying/working 
 - Java
 - Spring Boot
 - Python
