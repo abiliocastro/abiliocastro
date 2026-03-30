@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm a Back-End Developer at Decartes Systems Group. I have a bachelor degree in Sofware Engineering at Federal University of Ceará - Campus Quixadá - Brazil
 
 #### Programming Languages and Frameworks I'm studying/working 
-- Java
-- Spring Boot
 - Python
 - FastAPI
 - LangChain
+- Java
+- Spring Boot
